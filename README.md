@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Maading
-- 👀 I’m interested in gaming, space, date science
-- 🌱 I’m currently learning date science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in gaming, space, data science
+
 
 <!---
 Maading/Maading is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
